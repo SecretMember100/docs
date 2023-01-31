@@ -12,20 +12,20 @@ export interface CoreTeam {
 
 export const teamMembers: CoreTeam[] = [
   {
-    avatar: 'https://cdn.discordapp.com/avatars/927200461377929246/9d1d9eea1e720ffb76afa123cf121a90.png?size=2048',
+    avatar: 'https://cdn.discordapp.com/avatars/852738368487948288/eead991abfcd8540699ff80c1c336d5a.png?size=1024',
     name: 'Adeeb',
     title: 'Owner & Developer',
     links: [
-      { icon: 'github', link: 'https://github.com/Jonathan5508' },
+      { icon: 'github', link: 'https://github.com/Adeeb9765' },
       { icon: 'discord', link: 'https://discord.com/users/852738368487948288' }
     ]
   },
   {
     avatar: 'https://cdn.discordapp.com/avatars/946247029816967179/4066ed43b3f987ec53387f9f0467271e.png?size=2048',
-    name: 'bailey<3',
+    name: 'VIRAT G1',
     title: 'Co Owner',
     links: [
-      { icon: 'discord', link: 'https://discord.com/users/852738368487948288' }
+      { icon: 'discord', link: 'https://discord.com/users/852736379229700157' }
     ]
   },
   {
