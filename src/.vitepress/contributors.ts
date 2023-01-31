@@ -21,7 +21,7 @@ export const teamMembers: CoreTeam[] = [
     ]
   },
   {
-    avatar: 'https://cdn.discordapp.com/avatars/946247029816967179/4066ed43b3f987ec53387f9f0467271e.png?size=2048',
+    avatar: 'https://cdn.discordapp.com/avatars/852736379229700157/bf1b254eb5fa6cb2c81181d4f72a75a2.png?size=1024',
     name: 'VIRAT G1',
     title: 'Co Owner',
     links: [
