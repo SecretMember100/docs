@@ -1,6 +1,6 @@
 # Frequently Asked Questions
 
-If this documentantion didn't help at all, you can make a ticket in our **[Support Server](https://discord.gg/RFPBqzhTGf)**. Support Team will respond as soon as they can.
+If this documentantion didn't help at all, you can make a ticket in our **[Support Server](https://discord.gg/2MbxmzFc2s)**. Support Team will respond as soon as they can.
 
 ::: details Why Lightning is not responding?
 
