@@ -4,7 +4,7 @@ This documentation provides information on each module/command, including the de
 
 ::: details Need additional help?
 
-Feel free to join to our **[Support Server](https://discord.gg/RFPBqzhTGf)**. 
+Feel free to join to our **[Support Server](https://discord.gg/2MbxmzFc2s)**. 
 
 :::
 
