@@ -26,7 +26,7 @@ Feel free to join to our **[Support Server](https://discord.gg/2MbxmzFc2s)** and
 
 ::: details Can I get Lightning's code?
 
-You can find it in our official **[GitHub](Notyetready)**.
+You can find it in our official **[GitHub](https://github.com/Adeeb9765)**.
 
 :::
 
